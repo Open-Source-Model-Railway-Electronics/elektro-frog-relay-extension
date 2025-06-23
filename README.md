@@ -8,4 +8,4 @@ This module is used in combination with the [OS-Solenoid-Decoder](https://github
 
 ## 🖼️ Hardware Preview
 
-![Electrofrog Relay Extension](hardware/relay-extension-TH.png)
+![Electrofrog Relay Extension](hardware/[relay-extension-TH.png](hardware/elektro-frog-relay-extension.png))
